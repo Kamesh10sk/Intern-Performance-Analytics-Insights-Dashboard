@@ -1,0 +1,51 @@
+intern_id,name,Internship domain,attendance,tasks_assigned,tasks_completed,performance_score,working_hours,mentor_feedback,stipend,sprint_number,sprint_status,total_sprints_completed,task_completion_rate,efficiency_score,performance_category,FTE_Selected
+1,Aarav,Data Science & Analytics,92.0,20,18,9,6,5.0,15000,4,Completed,4,90.0,42.2,High,Yes
+2,Diya,Full Stack Development,85.0,18,15,7,5,4.0,12000,4,In Progress,3,83.33333333333334,38.2,Medium,No
+3,Kavin,AI & Machine Learning,95.0,22,21,9,7,5.0,18000,4,Completed,4,95.45454545454545,43.4,High,Yes
+4,Meera,Marketing & Sales,78.0,15,12,6,5,4.0,10000,3,Blocked,2,80.0,34.800000000000004,Medium,No
+5,Arjun,Data Science & Analytics,88.0,19,17,8,6,4.0,14000,4,Completed,4,89.47368421052632,40.0,High,No
+6,Priya,Full Stack Development,90.0,20,19,9,6,5.0,15000,4,Completed,4,95.0,41.4,High,Yes
+7,Rahul,AI & Machine Learning,82.0,18,14,7,5,4.0,13000,4,In Progress,3,77.77777777777779,37.00000000000001,Medium,No
+8,Sneha,Marketing & Sales,75.0,16,12,6,5,3.0,10000,3,In Progress,2,75.0,33.6,Medium,No
+9,Vikram,Data Science & Analytics,91.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.8,High,Yes
+10,Ananya,UI/UX designing,86.0204081632653,19,16,8,6,4.0,14000,3,Not Started,2,84.21052631578947,39.20816326530612,High,No
+11,Surya,AI & Machine Learning,93.0,22,20,9,7,5.0,18000,4,Completed,4,90.9090909090909,42.6,High,Yes
+12,Nisha,Marketing & Sales,80.0,17,14,7,5,4.0,11000,4,In Progress,3,82.35294117647058,36.2,Medium,No
+13,Ravi,Data Science & Analytics,85.0,18,16,8,6,4.0,14000,4,Completed,4,88.88888888888889,38.8,High,No
+14,Divya,Full Stack Development,89.0,20,18,9,6,5.0,15000,4,Completed,4,90.0,41.0,High,Yes
+15,Manoj,AI & Machine Learning,77.0,17,13,6,5,3.0,12000,3,Blocked,2,76.47058823529412,34.4,Medium,No
+16,Lakshmi,Human Resources (HR),83.0,18,15,7,5,4.0,11000,4,Completed,4,83.33333333333334,37.400000000000006,Medium,No
+17,Karthik,Data Science & Analytics,90.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.4,High,Yes
+18,Pooja,Full Stack Development,86.0,19,16,8,6,4.0,14000,4,In Progress,3,84.21052631578947,39.199999999999996,High,No
+19,Ajay,AI & Machine Learning,94.0,23,21,9,7,5.0,18000,4,Completed,4,91.30434782608695,43.0,High,Yes
+20,Keerthi,Marketing & Sales,79.0,16,13,6,5,3.0,10000,3,In Progress,2,81.25,35.2,Medium,No
+21,Sanjay,Data Science & Analytics,88.0,20,18,8,6,4.0,15000,4,Completed,4,90.0,40.0,High,No
+22,Neha,Full Stack Development,91.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.8,High,Yes
+23,Varun,AI & Machine Learning,84.0,19,16,7,5,4.0,13000,4,In Progress,3,84.21052631578947,37.800000000000004,Medium,No
+24,Asha,Marketing & Sales,76.0,15,12,6,5,3.0,10000,3,Not Started,2,80.0,34.0,Medium,No
+25,Rohit,Data Science & Analytics,89.0,20,17,8,6,4.0,15000,4,Completed,4,85.0,40.4,High,No
+26,Swathi,Full Stack Development,92.0,21,20,9,6,5.0,16000,4,Completed,4,95.23809523809523,42.2,High,Yes
+27,Harish,AI & Machine Learning,81.0,18,15,7,5,4.0,13000,4,In Progress,3,83.33333333333334,36.6,Medium,No
+28,Deepa,Marketing & Sales,78.0,16,13,6,5,3.0,10000,3,In Progress,2,81.25,34.800000000000004,Medium,No
+29,Praveen,Data Science & Analytics,93.0,22,20,9,7,5.0,17000,4,Completed,4,90.9090909090909,42.6,High,No
+30,Anu,UI/UX designing,87.0,19,16,8,6,4.0,14000,4,Completed,4,84.21052631578947,39.6,High,No
+31,Gokul,AI & Machine Learning,90.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.4,High,No
+32,Ramya,Human Resources (HR),82.0,17,14,7,5,4.0,11000,3,In Progress,2,82.35294117647058,37.00000000000001,Medium,No
+33,Vijay,Data Science & Analytics,86.0,19,17,8,6,4.0,14000,4,Completed,4,89.47368421052632,39.199999999999996,High,No
+34,Shreya,Full Stack Development,91.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.8,High,No
+35,Kishore,AI & Machine Learning,79.0,17,14,6,5,3.0,12000,3,Blocked,2,82.35294117647058,35.2,Medium,No
+36,Preethi,Human Resources (HR),84.0,18,15,7,5,4.0,11000,4,Completed,4,83.33333333333334,37.800000000000004,Medium,No
+37,Aravind,Data Science & Analytics,92.0,22,20,9,7,5.0,17000,4,Completed,4,90.9090909090909,42.2,High,No
+38,Nandhini,Full Stack Development,88.0,20,17,8,6,4.0,15000,4,Completed,4,85.0,40.0,High,No
+39,Sathish,AI & Machine Learning,85.0,19,16,8,6,4.0,14000,4,In Progress,3,84.21052631578947,38.8,High,No
+40,Kavya,Marketing & Sales,77.0,16,13,6,5,3.0,10000,3,In Progress,2,81.25,34.4,Medium,No
+41,Logesh,Data Science & Analytics,90.0,21,19,9,6,5.0,16000,4,Completed,4,90.47619047619048,41.4,High,No
+42,Reshma,Full Stack Development,86.0,19,16,8,6,4.0,14000,4,Completed,4,84.21052631578947,39.199999999999996,High,No
+43,Dinesh,AI & Machine Learning,93.0,22,21,9,7,5.0,18000,4,Completed,4,95.45454545454545,42.6,High,No
+44,Janani,Human Resources (HR),81.0,17,14,7,5,4.0,11000,3,In Progress,2,82.35294117647058,36.6,Medium,No
+45,Tharun,Data Science & Analytics,87.0,20,17,8,6,4.0,15000,4,Completed,4,85.0,39.6,High,No
+46,Aishwarya,Full Stack Development,92.0,21,20,9,6,5.0,16000,4,Completed,4,95.23809523809523,42.2,High,No
+47,Bala,AI & Machine Learning,83.0,18,15,7,5,4.0,13000,4,In Progress,3,83.33333333333334,37.400000000000006,Medium,No
+48,Sruthi,Marketing & Sales,79.0,16,13,6,5,3.0,10000,3,Not Started,2,81.25,35.2,Medium,No
+49,Yogesh,Data Science & Analytics,91.0,22,20,9,7,5.0,17000,4,Completed,4,90.9090909090909,41.8,High,No
+50,Hema,Full Stack Development,88.0,20,17,8,6,4.0,15000,4,Completed,4,85.0,40.0,High,No
